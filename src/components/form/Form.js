@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-export default function Button() {
+export default function Form() {
   const [title, setTitle] = useState('');
   const [color, setColor] = useState('black');
 
